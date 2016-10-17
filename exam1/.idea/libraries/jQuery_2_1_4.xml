@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jQuery-2.1.4" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <sourceFilesUrls>
+        <item url="file://D:/exam/frameworks/jquery-2.1.4" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/exam/frameworks/jquery-2.1.4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
